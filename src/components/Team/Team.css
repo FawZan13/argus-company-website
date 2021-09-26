@@ -1,0 +1,10 @@
+.employee-container{
+    display:grid;
+    grid-template-columns: 3fr 1fr;
+}
+.employee-list{
+    margin-left:20px; 
+}
+.employee-cart{
+    margin:30px;
+}

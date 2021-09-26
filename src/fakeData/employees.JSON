@@ -4,7 +4,7 @@
        "age": 18,
        "country": "Japan",
        "salary": 16000,
-       "Role": "Frontend Developer",
+       "role": "Frontend Developer",
        "img": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBUVFRgVFRUYFhgaHRgaGBwZGhgZGhocHBoaHBgaGBwcIy4lHCErIRwaJzgmLC8xNTU1ISQ7QDszPy40NTEBDAwMEA8QHhISHjQrJCs0NDQ0NDQ0NDQ0NDE0NDQ0NDQ0NDQ0NDY0NDQ0NDQ0NDQ0NDQ0NDQ0MTQ0NDQ0NDQ0P//AABEIAQAAxQMBIgACEQEDEQH/xAAcAAEAAgIDAQAAAAAAAAAAAAAABgcDBQIECAH/xABKEAACAQIDAwkDCQUFBgcAAAABAgADEQQSIQUGMQcTIkFRYXGBkTKhsRRCUmJygpKiwSMzssLRFiRUc/AVJUNjk6M0RFOzw+Lx/8QAGQEBAQEBAQEAAAAAAAAAAAAAAAIBAwQF/8QAIhEBAQACAgICAwEBAAAAAAAAAAECEQMhEjEEMiJBYYFR/9oADAMBAAIRAxEAPwC34iICIiAiIgIiICIiAiJ18djqdFS9WoqKOtjbXsHae4awOxEge0+Umktxh6TVD9JzkXxC6sfA5ZGcZygY1/ZdKY+og+L5pUxrNriiUa29uNP/AJmp6gfATPht98ch/flx2OqMD52v75vhTa64lcbL5TNQMRRFutqR4fcY/wA3lJ1svatHEpnoOHXgbXBU9jKdVPiJNxsa7sREwIiICIiAiIgIiICIiAiIgIiICfCbanQDjPsj+92JwtKlmxKmoD7NLM1qjDqyA5SB1kggekQa3eHf+hRBTDkV6nC4P7Ne8sPa8F9RKw2ptWriHNSs5duq/BR9FFGijw87zjjHetUZ1pKgNgEpoERAOCgADt4nU3vMXyCp9A+o/rOskjGAtPmafK6FSA3xB+Ew1HsPMStjPmny8x5p8z62jYyM9p3tj7XqYaqtWk1mHEfNdetHHWD7uI1E6CIx4KT4AmYluDY+XhMHobYO16eLorWp8DoynirD2lbvHb1gg9c2UpPk/wB4Pk2ICObUqpCPfgrXtTfusTY9xv1CXZOWU1WkREwIiICIiAiIgIiICIiAiIgazau1Gp9CnSetVIuqqrZB3u9sqjuvc++VVtraNTO74hrvmKAXBC5SRZQpICg34H1JvLD363hGDw7FWtVqXSkOsG3SfwUG/jlHXKKqVyxLMSbDrlYxjbvtewyoLdrNqSes24To1sW7+0xPnp6Tpl7AdugmajTLsFUXJIA8TK2OJvobaa69Vxa4949ZwrNp5yTb07LOHo4YWsCKniT0CWPjeRJGuD4zJl5Tbcpq6dq8wVXswPdOStoJtdi7OOJ52mBdhTLr3FWW3xIPcTNt1Nkm66C1SuoJHeNJnG0WupazgfStwPHX0PlNeSQpB0IuD5T5Ra6+6btiRUloVdMuRuzh6dRlt7jbVNahkclqlLoFj89QAVa/WcpAbrvqfaEoZWtLd5I8Xno11Y3dHU9+VkAU/kb0k5CwYiJDSIiAiIgIiICIiAiIgJ18bilprmYFjwVVGZ3bqVF6yfQak2AJnYiBBcXuw1ZcRjcdZ6nNVOaog5qdBQrFQTwdxxJ4ZiSL6EUsp6I77e+elduG2Grn/lVf4Gnmljw8RKxrH126SiTvk62NzlQ13HQp6DsLniPIfGQ3BYFqi1qgF1pKhJvaxZ1UaW10zaadstndrdxVw1MPUrdJQ5RajIql+l8yxPHrJkcmWpp0wx721/KnSvQpv2Oy/iW/8srTE4F6WUP/AMREqL9lwSJaG+mx1XDPavU0sypUfOrEHWxYZr2J4GavlD2PloYaso/dotJ/DKMh9bjzEjjz1qLzx32r2m2n+vGTTk5oMuKRz7NRKuXwUgG/mJCE0a0s/drZ+JC4R0WmlqVUguWbMHdXJKqBl4i2pnTky/FGE7Rrf/Y/yfEsyiyVQXXubg6+uvnIvzTo7o4KspIYHqINiJaW++zsS9BXqCk/Nup6AcNZiFIs1wbkr1jhI7yj4BVrpiEFhVWzgixDpYEMOo5SvoZOGfqKyx91D3eWByO4rLi6tPqelfzR1t7naVzUbUecsfc7Zhw42djgCoqVa1CvxNxUZ6dBj1KMwAv19CdK5LiiIkhERAREQEREBERAREQEREDUb21MuBxTdmHr28eba083V7jLcEcCLgi4PAi/EEdc9Jb0YNq2FrUU0aovNg8bZ2CFj3AEk9wla8pOyKdHG4FgoNIolLJ821FgAD4q6jym71D9tfuthf8AduMcqWNRlRQoJJK2I4dV2kpw+y6VWjSr4/EugqgFED83SpgqSqDvy9Z7J95OlyYdqJHBi68LlH4XtxPR94m03l2NzuEFGmNabB0BOhsT0PwsQPKcZlPK7drjfGaV/sbHVhiDh6L/ACmk5YZKl7Mihjpf2GsNCOu0tHaOBSvSek46LrY9o7CO8Gx8pFt093Hp1zXenzVlKohYMbtxbTgLXHnJraRyZTfS8JddqBx+yHp4g0GHTDhB2G5spHcbg+csvA4LGK7UsMFRU/ZipiD0WyqP3SKOFgOkb+XCbzHbBp1cRTxDDp0/zW9i/wBk6zWcoGFZ8Ols1lqKWyi5ClWBPw9ZUzmVkqbjcZbEZwG8uOq1fkzrTxGbN0RlUnJdiFZdL9A2uNdJst/66V8AlVQRaoLhhZlazq6MOog6HwnV5PdkD5UawJKU1NmItd3FrDXqUn3TLv3guawjEkl62I5x9Ta5DkBR3Cwv12lZTGZTTJcrLtVFd7G/ZPSmxdjBcDRwtQXtSRH6jnsCxU9RDXIPEEAynKe79Cm+FdajVW+UYZa65VFMBnW4Xr46a9vVL+M6b25WafFvYXNz1nhc9tuqfYiGEREBERAREQEREBERAREQE1+1NkU8QUNQXyc5bwdCrWPUdQQeq02EQK52ZhXw2N5tuBUoOoEasjqOw5SO43HVJgJ929g1dBUI6dI51YcQFILjvBUHTwnxTPPyTVejjy3HK0wYjEqhUHi5CqB39fhM0xvRVmViLlb285ydWSCIiBxy2kR38RX+To2q52dh3Kthfuu3xkvYyLrsapja5qsGSkpAQstrqvWinVidSGPRFxxtaXjLajKyTty3Z2CtYs7r+zUgqO2oLWYfZsD2Zrdhk8mHC4daaqijKqiwH+uJ6yeuZp6cZqPPld3ZERNSREQEREBERAREQEREBERAREQPhHbNNzZpEIeHzD9JR80/WA9Rr223UxV6KupVhcHyseogjUEdok54+UVjl41r7zhTdjfMtrHTUEEdREj9HeamuKq4Oqcr02srn2XUgMpYj2Wsw7iezhJEDPLljZdV6ccpZtjNRs1ght1sSAPLiT6CZSZxZgBeQ3fDe00aTHD2JuFznUAn6A+ce/h4xJttukuTLUc0gwJADOL6hSbajqzWIHmeqbuQzk42FXw9Os+J1rVnRiSSxyimrKGJ1uGZwR2g8ZM56cMfGPLll5UiIlpIiICIiAiIgIiICIiAiIgIiICIiAicVcG9iDbQ2N7Hv7JXW+O/YDfJ8G1yTapVWxAHzlpHgTxu/AdWuq7Jtlun3eRsM9YPSLM5aoXbLZGBSkjWJ9oDmkt1akgzHgdqVKIyrZ16lcno/ZbUgd2o8JoqFHKM4Ul1BLm+moByAdoFtfKd8G+s482Osnbhy3i7WO2hUraOej9BdF8/pefpOrSWlz2HasCUSorkC1syg5C1+IDEG3XafHYAEngNTOsEPOI1QAq1wg+gxGl+0kad3xnixtyVy5THHtcRiV7ybb0tUNXCYmsWqpUIos5GZ1AIK5uLMuVjrqQeuxtYU7uBERAREQEREBERAREQEREBERA0e8G9WGwZC1WYuVzKiLmYrci9zZRqDxI4GRPE8qaj93hSe96gX3KrfGRPlAxpqY6sb3CMtMdwUBWH48/rI8Zcxmk7qZ7U5UMURlp06VIm+tmdh4XNr+KmRPE71Y6pcPi65B9oB2QG/VZLADuE1mIPS8AJimX2Rut3V5tatfgEUIANA7vcIGHBgvTe31RMGGqhGzkXCC9u03AA87zt49OaSnh+BUc5U/zKgBAP2UyDxLTZbC2EKlF6rjoGotMDtPNuSe7KStu890qdTZZvpu9k4hKlFWU3vfNfjm+dfznHC+wB2dH8Jt+kjlLnMBV6V3oueI6+/uYdnX8JFhaitmysCua4I6wwD/zTjzdx145q9eq+4jUBfpMF8uLe4GYdqMqXBNswDJ9tSAbeII9DMO0dppRcFzcqpKqOJZtF8BYNczWYfD16rjFVBaxGRLe0OwA8Ba+vEyuHqM5ptoWu9TEC/SILgjQ50YPcW4H2uEn243KWwtQxxJHBK9rkdgrAan7Q17etpAcNWVcXmHsmo6+KsSo9xnA4I03dW0KkqB3X0PpaXZuuc6j01Sqq6h0YMrAFWUgqQeBBGhE5ygN3t58Rgj+ya6E3am92Q66kC91bvFu+8s3YXKHha9lqn5O/Y5uhP1anAfeCzLjY2VMonFHBAIIIOoINwR3EcZyktIiICIiAiIgIiICBE6+PqZaVRvoo59FJgUA1B8VWfILtUd3JJsAC+YsT5yQVN0qFI/3jHU0PWqgFvK7X/LNfstcmDxdXrZUoIftm72+7aR4NL7qHza9OktZ1oOz0wRldhYnojNpYddxw4ThszJzqF/YDBn71TpMPMAjznLCYCpWcpTRnYk6KL+Z7B3mfcXsyrRcJVRkYa2YWv2EHgR3iTub0vV1tnxFdqjs7+07Fm8WNz5S0NjYO2yUPXm5w+HOWP5RKrQay9tn4L+4JS6zQA8zTv8TLqEZxmy1egGdcysWVgeGnskdnX6So8ZSyO6DTKzD0JAnoTZWGFTCBT865Hcb6GUjvjhCmKdbWOhI77a/CTn3HbhustOxufglqO7uucIFC5tQCb9XdaS83aoigXygt5nor/NOruRst3oLkXMXJZj1DW2p8BJ1sTY60g9V7M9yAeoKgtp55jfvm49Yued3lVFVcLlquToQ72HYQxtJbvRsipWqfKaSF1qU6VRsurdJbEheJHRHDtkYrtdie039dZKcRXf5BhcQjsj0XemWU2IUk5b92iaHtm3pkREiJIU25SraYyiHP/q07JVH2gLK/nPj7uCrdsHVXELxKGyVV8UawPiLTfL/pp0djbexGFN6FVlHWvFD4oejfvtfvlo7mb8jFuKFVAlWxKsvsPlGYix1VrXNtRodRwlQ4nCPTOV0ZD2MpX0vxm75PD/vDDd7v/wC3UmZSaIvmIic1EREBERAREQEiO/W89PDI2HKs1WrTcKBYKoYMoZyT23sAD7J4SXSrN6qK19sKjDMiIgcHhlVGqEHu6Q9ZsZUb2rengsLT66heu3uRPymcd0t2nxVyWyU0NmbiSfooO23WeGnGdXeLaS18S5RiyKFFO4y2TiQB1AMTbutLM3Kwgp4Sn2veofvm4/LaTyZXHHpfHjvJ2Nl4VKCZKGGZR1lsi5j2uxJZvGxmv3xwzPhXapTRsillKE5kPUQSNRe1xppeSKvRLWs7pb6OXXxzKZp9v005iotTEMAUfQtTUnonS2XWeXHLvb02TSoaa3Np6MwyZUVewAegtKI2XSCZHYAvUIVAfmoWyvUI79VX7x6hL8Se63bxuhsanloqn0S6/hdl/SVFv4FfHVSRexVfwooPvvLnp08ubsLFh56n33lD7ar569V/pO58i5t7py5L09Pxcd5f4tPk6cHBIBbos4/MT8CJvtrvloVW7Ec+ikyJ8l1S+HqL2VL+qL/SSXeR1GGrFr5cjg242IINu+Xj6jjyzWVn9efX4yWbspz2CxdDiQFqKO8C4t5oPWajGbGfnlSkDVFTpUmXg6dvcR86/Cb/ADf7OpMKYNSu4s9QKTSp2v0QbWZh/wDvZKt6c5EJJhHKkEEgjUEEgg9oI4QROMpiWYDfGoU5nEImJU9EZwM1zoL3Fm1tx175x3QpZNq0kHzatVfwpUH6SOYAXrUh21KY/Osk26TX2sh7a1c/kqmTYpd0REhpERAREQEREBKhxWMV8ftDEKbqlKqARwJVKdIW8Splhb47W+TYSpUBs5GSn2520BH2RdvuyoinyfA2Oj4pgR3UqZuD95j5ibGVHChzpbiej5nQfGX9haQREQcFVVHkAJTu6uB53FUVIuFcOfBBm+IEua84c97078M62x4mmjC7+yLk3JAt1k629ZCd496qSI1HD0wc6np2Cpla6kpbVuB1085l5S9qZKKUVNjUJLfYXq8yR6GQrautDCN1mk6n7lWoP1mcXHL3W8meuo+YHENUxKM1rl0AA0CgMoVVHUALADunoNJ552CL4mj/AJlP+NZ6Epz1V5o4Yp8qs3YCfQXnnp2uby+d4KuXDVm7Kbn8hlCPxnHl/T3fEndqyeSp+jXHeh9Qw/SSLfmplwNc/VA9WUfrItyVN0sR4U/jUm/5RHtganeaY/7imXh9Y8/P96rTYG1CL4d3KK9+bcHWk7C1/sNwI89OMyJvHjcKxouwPN9Eo6ggAcLEWJBGt7yMsZMMLhxi8LzzoGegRTLFipqJYFbkfOW/ffzlZ3xm9OWPfTBU2/ha37/BKG63pNkY99tPeTMBwuzn9jEVqB7KiZ1Hmn6mK+wV6g6+BV1/RppsdgzTy9IMGDEEAg9E2IIPDWceP5HHndS9ry47jN192So+VUQDcCrTsbWuOcWxseGg4Td7hHNtOge16p/7VUzSbDP95pnsqJ7iDN/yYLmx9E9i1G/7bD+ad6heMREhpERAREQERNft3ayYWg+IqBiqZdFtmJZgigX04sIEF5SajYjFYXBIfrt4uSoPiqK5+9IXtvEHE4rJSF1BWlRXgMq9EW7ibnwM2H+3A7YzHOwWo4yUEzXZcwCjL25UC3Nu3tka2dW5uolTrRlbyUg290qRi1N3djJhgnBnDPTdrWuXSm48hkIHjJHedAIXFRENmdFqIfrodD4fu5HNub3KmHIUEVmGUC2ik3BYnqtY6donn5cLcpXfjykx0hO+e0efxbkG6qebTwTj6nMfOfcdrhMMfoviEPmyOP4poKZu1+z9Zv16WBP1MQD5PTI+KT0Y46kcMruvm7C3xVAf82n/ABgy/wBTKE3SF8ZQ+2nuN5fCGbWRpt86uXB1z2pl/EQv6ykWOsuDlEqWwTjtZB+cH9JTpM4cvt9D4k6qw+Sv2q/hT+Lzbcp1S2EA7XQegY/pNLyWHp4j7NP41J3OVWrahSXtcn0Rv6zph6jy/I+9VWZO6SLSwNGkxymqTUfqJGhUfwehkP2TgzWrJSHz2AP2eLH8IMmO1aq1sQ4RgOayootqMvFk10Nyy+QkfJy1hU8M3kxYzEMuQoQQWGbsK21N/SRvbtS7IPqFvxuxm2qXIAYkMLkAKwAQNnYksO4D075oNsP0yPooi+iAn3kzwfExnnP5t6Oa/ix7Ia1RD3s3orN+klnJKl8d9mi5/NTX+aRTZSdMdyVj+Gi5/STjkdo3xFd/o0lX8b3/AJJ9WvHFtxESFEREBERA4u4AJJAABJJ0AA1JJlMb8b6Ni8+HpWGGutjYh6hUhgxJ9lcwBAAB0142Fn75PbAYojT9jUHqpH6zz6TKxia42F7Dz/SZAZwQW/WYK2KA0Gp90pi0di7dPySnUDgPTPNtfiVNhfv0KN92Q/e6uA2S4JZ2qMRa9yLWa3eSfOard7G2qFHPRqDLr29X6idPHYZqdV1bquQe0HgZKnPDjQntPwm92V0sPik+pTqD7lTpe55pUFgBNzuwQa4Q8KqVKR++ht7wJv6ZPbNuaP77Q+38ATL0VpRu5ikY2gDxDtfxCNLrDxrbEU5TKtsMg7ai+5XP6SqiZZPKa/7GkPrk+iN/WVrOHL7fS+JPwT/kuPTxH2afxqRyr1P/AA6/5h/gE4cmB6WI8KXxqTrcqNS9WivYjH1b/wCs64fWPJz/AHrVbogUkr4th+7Qqne7dXj7I+9NPg8dZunc6k57XIvqcw4sLk8Dce6bbbb8xhKGG4O/7aoPH2Af9fNkYvGWEzlmTlMrjem3xO1uIRfNgAPHLc5vvE+E1FdycxJuTcknrJ4xMdZrKT/rjM4+HHCdRuWeWXtsdkEmqqLbNUWogv1Zqbgn0Jk+5FiC2LPXlw3oTiJXO7wLVy/0Eqv4Zabke+0sPkYNqmKXtSh+Vqg/mlVMWtERJUREQEREDq7TwgrUalE8HR01+upX9Z5orVQhKt7QJDDiQQbEHwM9QyheUjdOtRxlSrSou9GsecUoruFY61FawOU5rsL6WbTgbbLpliGVsSW7h2f1mCS3Y/J1tDEAEUeZU/OrnJ6LYt6qJaW5/J7h8CRVc/KMQODstlT/AC0ubH6xuey17TdmlTVty8TSwbY2sOZUNTCowPOMGcLmI+YBcHXU9g4nU1a71GDOxYmwuezsnobfjZ4xGAxNMmxyF1P1qZFRfIlQPOedqA1HcJk9ldq8z4DEc3UR/oOrfhYE/CdeBLSmezaATaoA4Z3ceDozj+KWjmlbbG6eIwFfrZHpufrU1db+d/dLEzTJVIXymP0aA73PoFH6yvZOeUt+lQHdUPvSQW88/J7fR+N9E+5M/wDjn/L/APkmLezDc/tGlTPshEL9mUM7Nfy085l5Nh0ax70HoG/rOG9VTm3xNe/SZUoJ2jMoZz6H3Trj9Y8fN96he3cfz9d6nUTZPsLovuF/Oa+CZ8nRwfZixR6B8vjMkwYw9HzEVsbfdtLCsO3D1/4RJpyOv/ea47aQPo4/rIlu2LvUHbQr/wAEknJA/wDfnHbh391Sj/WTf21csRElpERAREQEREBERAw42lnpun0ldfxKR+s88YXdTHga4OuDYfMbsno2Jsuh54/srjv8JX/A0+/2Wx3+Er/gaehom7Z4qm3Q2TiVyLVw9VebqF1LIwsGpuD+a3qJOfk7/Qb8JkgiZs0qzfzY+IqtSNOhUeyvfKjG1ylr+hkR/szjf8JX/A09AxIyx3du+HNljj4yK13E2TiKVOoKlF0JcWDIwJAUa+pM0m+GycZVqlUw1ZkDFrhGIJIVRbTqC++XLEqdOWV8ra88f2Vx/wDhK/4GnH+yuO/wlf8A6bT0TEradPO39lcd/hK//TaYMVupjyABg8QdfoNPSERs0ord7dzGI7l8LWUGlUXVGGpSwHjNzyZbFxVDG56tCrTU0qi5nQqtyyEC5+zLciZs0RETGkRED//Z"
     },
     {
@@ -12,7 +12,7 @@
         "age": 21,
         "country": "Russia",
         "salary": 20000,
-        "Role": "Frontend Developer",
+        "role": "Frontend Developer",
         "img": "https://s4.anilist.co/file/anilistcdn/character/large/b123212-ewZgUQr9vvEM.png"
      },
      {
@@ -20,7 +20,7 @@
         "age": 24,
         "country": "Japan",
         "salary": 6000,
-        "Role": "Backend Developer",
+        "role": "Backend Developer",
         "img": "https://i.pinimg.com/736x/24/4b/b7/244bb7daa431155134b42785ca2ec93c.jpg"
      },
      {
@@ -28,7 +28,7 @@
         "age": 24,
         "country": "Japan",
         "salary": 6000,
-        "Role": "Frontend Developer",
+        "role": "Frontend Developer",
         "img": "https://cdn.myanimelist.net/images/characters/4/240187.jpg"
      },
      {
@@ -36,7 +36,7 @@
         "age": 18,
         "country": "USA",
         "salary": 6000,
-        "Role": "Marketing Manager",
+        "role": "Marketing Manager",
         "img": "http://www.animecharactersdatabase.com/uploads/chars/thumbs/200/39134-449161928.jpg"    
      },
      {
@@ -44,7 +44,7 @@
         "age": 18,
         "country": "Japan",
         "salary": 6000,
-        "Role": "Data Analysist",
+        "role": "Data Analysist",
         "img": "https://www.personality-database.com/profile_images/27493.png"
      },
      {
@@ -52,15 +52,15 @@
         "age": 18,
         "country": "USA",
         "salary": 15000,
-        "Role": "Backend Developer",
-        "img": "https://static.wikia.nocookie.net/yahari/images/c/c1/Hayato_Zoku.png/revision/latest?cb=20150612130610"
+        "role": "Backend Developer",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwY6_S_ICJnfxi2cOq63u9YmRt7x76uOQwzeW7sly53lveyf2ROVOVhECv5V6UGNMeGEk&usqp=CAU"
      },
      {
         "name": "Yukinoshita Yukino",
         "age": 18,
         "country": "Japan",
         "salary": 18000,
-        "Role": "Product Manager",
+        "role": "Product Manager",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwY6_S_ICJnfxi2cOq63u9YmRt7x76uOQwzeW7sly53lveyf2ROVOVhECv5V6UGNMeGEk&usqp=CAU"
      },
      {
@@ -68,7 +68,7 @@
         "age": 18,
         "country": "Japan",
         "salary": 12000,
-        "Role": "React Developer",
+        "role": "React Developer",
         "img": "https://dev.mangajam.com/wp-content/uploads/2017/04/How-Draw-Hikigaya-Hachiman-Yahari-11.jpg"
      }
 ]
