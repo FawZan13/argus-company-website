@@ -1,17 +1,26 @@
 import React from 'react';
-import { Card, Col, Container, Image, Row } from 'react-bootstrap';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faFolderPlus } from '@fortawesome/free-solid-svg-icons';
 import './Employee.css'
 
 const Employee = (props) => {
     const {name, age, country, salary, role, img} = props.employee;
     return (
-        <div class="row">
-            <div class="col-md-9 col-lg-9 col-sm-7">
-                <div class="">
-                    
+                <div className="card ">
+                    <div className="card-style w-50">
+                        <div>
+                            <img className="image" src={img} alt=""></img>
+                        </div>
+                        <h4>Name: {name}</h4>
+                        <h5>Role: {role}</h5>
+                        <h5>Age:{age}</h5>
+                        <h5>Counrtry: {country}</h5>
+                        <h5>Salary: {salary}</h5>
+                        <div className="footer">
+                            <button onClick={() => props.handleAddToTeam(props.employee)} className="buy-now btn btn-success"><FontAwesomeIcon icon={faFolderPlus} />add to team</button>
+                        </div>
+                    </div>
                 </div>
-            </div>
-        </div>
     );
 };
 

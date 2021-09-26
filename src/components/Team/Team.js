@@ -13,17 +13,23 @@ const Team = () => {
         .then(res => res.json())
         .then(data => setEmployees(data))
     }, [])
+
+    const handleAddToTeam = (employee) => {
+        const newCart = [...cart, employee];
+        setCart(newCart);
+    }
+
     return (
         
         <div className="employee-container row">
-            <div className="employee-list col-lg-9 col-md-9">
+            <div className="employee-list col-md-9 col-lg-9 col-sm-7">
                 {
-                    employees.map(employee => <Employee employee={employee}></Employee>)
+                    employees.map(employee => <Employee key={employee.key} employee={employee} handleAddToTeam={handleAddToTeam}></Employee>)
                 }
             </div>
-            <div className="employee-cart col-lg-3 col-md-3">
+            <div className="employee-cart col-lg-3 col-md-3 col-sm-5">
             
-                <Cart></Cart>
+                <Cart cart={cart}></Cart>
             </div>
         </div>
     );
