@@ -1,9 +1,11 @@
 .employee-container{
-    display:grid;
-    grid-template-columns: 3fr 1fr;
+    display: grid;
+    grid-template-columns: 9fr 3fr;
 }
 .employee-list{
-    margin-left:20px; 
+    margin-left:20px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); 
 }
 .employee-cart{
     margin:30px;

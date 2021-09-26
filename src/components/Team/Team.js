@@ -21,14 +21,13 @@ const Team = () => {
 
     return (
         
-        <div className="employee-container row">
-            <div className="employee-list col-md-9 col-lg-9 col-sm-7">
+        <div className="employee-container">
+            <div className="employee-list">
                 {
                     employees.map(employee => <Employee key={employee.key} employee={employee} handleAddToTeam={handleAddToTeam}></Employee>)
                 }
             </div>
-            <div className="employee-cart col-lg-3 col-md-3 col-sm-5">
-            
+            <div className="employee-cart">
                 <Cart cart={cart}></Cart>
             </div>
         </div>

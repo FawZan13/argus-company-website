@@ -4,10 +4,6 @@
     border-radius: 50%;
     padding: 5px;
 }
-.card{
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-}
 .card-style{
     
     text-align: center;
