@@ -1,0 +1,9 @@
+.cart{
+    border:2px solid violet;
+    border-radius: 10px;
+    width: 300px;
+}
+.member{
+    border: 1px solid black;
+    background-color: #BC1E4A;
+}

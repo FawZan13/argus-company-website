@@ -1,8 +1,8 @@
 .header{
-    border: 2px solid darkblue;
-    border-radius: 10px;
-    background-color: rgb(163, 227, 252);
+    border: 1px solid black;
+    background-color: #BC1E4A;
 }
-.text-blue{
-    color:rgb(53, 53, 212);
+.heading{
+    font-weight: 700;
+    font-family: 'Times New Roman', Times, serif;
 }

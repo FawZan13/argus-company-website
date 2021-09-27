@@ -1,12 +1,12 @@
 import React, { useEffect, useState } from 'react';
-import Cart from '../Cart/Cart';
 import Employee from '../Employee/Employee';
 import './Team.css';
+import Recruit from '../Recruit/Recruit';
 
 const Team = () => {
 
     const [employees, setEmployees] = useState([]);
-    const [cart, setCart] = useState([]);
+    const [recruit, setRecruit] = useState([]);
 
     useEffect(() => {
         fetch('./employees.JSON')
@@ -15,8 +15,8 @@ const Team = () => {
     }, [])
 
     const handleAddToTeam = (employee) => {
-        const newCart = [...cart, employee];
-        setCart(newCart);
+        const newRecruit = [...recruit, employee];
+        setRecruit(newRecruit);
     }
 
     return (
@@ -28,7 +28,7 @@ const Team = () => {
                 }
             </div>
             <div className="employee-cart">
-                <Cart cart={cart}></Cart>
+                <Recruit recruit={recruit}></Recruit>
             </div>
         </div>
     );
