@@ -3,6 +3,7 @@ import './Header.css';
 
 const Header = () => {
     return (
+        // Header
     <div className="header text-white text-center mb-5">
         <h1 className="heading my-2">Argus Company Limited</h1>
         <h2 className="my-3">Make  Your Own Business team</h2>
